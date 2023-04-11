@@ -1,7 +1,3 @@
-Group 9 Gitlab Repo: https://git.cs.dal.ca/hosur/csci-5709.git
-Deployment link:  https://fluffy-figolla-d26e69.netlify.app/
+Frontend deployed on Netlify: https://reboundr.netlify.app/​
 
-References:
-
-1. https://mui.com/material-ui/react-card/
-2. https://mui.com/material-ui/react-app-bar/
+Backend deployed on Render: https://reboundr-backend.onrender.com/​
